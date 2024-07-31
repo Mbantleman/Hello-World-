@@ -1,2 +1,7 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+#includestudio.h>
+void main ()
+{
+print("Hello, World");
+}
